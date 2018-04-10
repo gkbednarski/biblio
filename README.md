@@ -5,3 +5,4 @@ kurs django
 kolejna poprawka
 znów coś dodałem
 jeszcze raz
+zapomiałęm jeszce tego 
